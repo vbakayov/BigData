@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="conf"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Viktor/Desktop/bd4-hadoop/lib/avro-tools-1.7.6-cdh5.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Viktor/Desktop/bd4-hadoop/lib/hbase-client-1.0.0-cdh5.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Viktor/Desktop/bd4-hadoop/lib/hbase-common-1.0.0-cdh5.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Viktor/Desktop/bd4-hadoop/lib/hbase-hadoop-compat-1.0.0-cdh5.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Viktor/Desktop/bd4-hadoop/lib/hbase-protocol-1.0.0-cdh5.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Viktor/Desktop/bd4-hadoop/lib/hbase-server-1.0.0-cdh5.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Viktor/Desktop/bd4-hadoop/lib/hbase-shell-1.0.0-cdh5.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Viktor/Desktop/bd4-hadoop/lib/htrace-core-2.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Viktor/Desktop/bd4-hadoop/lib/htrace-core-3.2.0-incubating.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Viktor/Desktop/bd4-hadoop/lib/htrace-core4-4.0.1-incubating.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
